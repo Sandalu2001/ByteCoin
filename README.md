@@ -3,6 +3,11 @@
 ## Overview
 This iOS application allows users to view exchange rates between Bitcoin and various other currencies. Users can stay updated on the latest exchange rates and monitor changes in real-time.
 
+## ScreenShots
+<img width="175" alt="bytecoin" src="https://github.com/Sandalu2001/ByteCoin/assets/86417299/42169abb-9aa0-489c-a5cf-30f4f6b8c952">
+
+
+
 ## Features
 - **Live Exchange Rates:** Get real-time exchange rates for Bitcoin against multiple currencies.
 - **Currency Conversion:** Convert Bitcoin amounts to selected currencies instantly.
